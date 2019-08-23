@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{C419BDC4-4D62-BFAC-3158-CC19EEA21763}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/ex03/Sprites/GameHelper.cs">
+    <Files>
+      <File FileName="Assets/ex03/Sprites/BirdHelper.cs" Line="29" Column="76" />
+      <File FileName="Assets/ex03/Sprites/PipesHelper.cs" Line="4" Column="1" />
+      <File FileName="Assets/ex03/Sprites/GameHelper.cs" Line="25" Column="56" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
